@@ -1,0 +1,2 @@
+{"level":"info","message":"Parameters 8 and 0 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
